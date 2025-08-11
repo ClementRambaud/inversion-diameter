@@ -1,4 +1,5 @@
 A little program to decide whether a given graph has inversion diameter at most a given integer k.
+See https://arxiv.org/abs/2405.04119 for further details.
 
 # Usage
         make
